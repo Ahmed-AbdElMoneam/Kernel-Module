@@ -1,0 +1,1 @@
+cmd_/home/ahmed/Desktop/Project/Task2/Task2.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/ahmed/Desktop/Project/Task2/Task2.ko /home/ahmed/Desktop/Project/Task2/Task2.o /home/ahmed/Desktop/Project/Task2/Task2.mod.o ;  true
